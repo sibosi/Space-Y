@@ -8,7 +8,7 @@
 - [Versenyszabályzat](https://www.cansatverseny.hu/szabalyzat)
 
 ## A csapattagok
-- Katona Salamon
 - [Balázs László](https://github.com/balaslaszlomarton)
-- [Száray Zsombor](https://github.com/szarayzsombor)
 - [Simon Nimród](https://github.com/sibosi)
+- Kalmár Benedek
+- horváh Maja
