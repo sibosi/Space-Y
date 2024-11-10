@@ -11,4 +11,4 @@
 - [Balázs László](https://github.com/balaslaszlomarton)
 - [Simon Nimród](https://github.com/sibosi)
 - Kalmár Benedek
-- horváh Maja
+- [Horváh Maja](https://github.com/bonobo15)
