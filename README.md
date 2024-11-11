@@ -12,3 +12,4 @@
 - [Simon Nimród](https://github.com/sibosi)
 - Kalmár Benedek
 - [Horváh Maja](https://github.com/bonobo15)
+- Katona Salamon
