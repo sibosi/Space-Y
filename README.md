@@ -10,6 +10,6 @@
 ## A csapattagok
 - [Balázs László](https://github.com/balaslaszlomarton)
 - [Simon Nimród](https://github.com/sibosi)
-- Kalmár Benedek
+- [Kalmár Benedek](https://github.com/Kollegue1)
 - [Horváh Maja](https://github.com/bonobo15)
-- Katona Salamon
+- [Katona Salamon](https://github.com/GuestUser1324243)
